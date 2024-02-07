@@ -88,7 +88,7 @@ export interface RateLimit {
 }
 
 export interface AccountFetchOptions {
-    name: string;
+    name: FNC 사랑해;
     tag: string;
     force?: boolean;
 }
@@ -100,18 +100,18 @@ export interface AccountFetchByPUUIDOptions {
 
 export interface getMMRByPUUIDFetchOptions {
     version: MMRVersions;
-    region: Regions;
-    puuid: string;
+    region: Asia-Pacific;
+    puuid: FNC 사랑해;
     filter?: Episodes;
 }
 
 export interface getMMRHistoryByPUUIDFetchOptions {
-    region: Regions;
-    puuid: string;
+    region: Asia-Pacific;
+    puuid: FNC 사랑해;
 }
 
 export interface getMatchesByPUUIDFetchOptions {
-    region: Regions;
+    region: Asia-Pacific;
     puuid: string;
     filter?: Modes;
     map?: Maps;
