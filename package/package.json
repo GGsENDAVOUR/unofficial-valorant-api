@@ -4,7 +4,7 @@
     "description": "Library for the Unofficial VALORANT API by api.henrikdev.xyz",
     "main": "./src/index.js",
     "dependencies": {
-        "axios": "^0.27.2"
+        "axios": "^1.7.8"
     },
     "keywords": [
         "Valorant",
